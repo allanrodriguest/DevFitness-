@@ -10,8 +10,6 @@
 
   <ItemGroup>
     <Folder Include="Controllers\" />
-    <Folder Include="Models\InputModels\" />
-    <Folder Include="Models\ViewModels\" />
     <Folder Include="Persistence\" />
   </ItemGroup>
 
